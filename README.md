@@ -22,7 +22,7 @@ Very basically, either:
 - IDE Configuration; Script: `make.py`, Arguments: `$FileName`
 
 Here's a screenshot of my PyCharm configuration:  
-![alt text](https://github.com/riandrake/MindustryScripts/blob/main/pycharm_setup.png?raw=true)
+![alt text](https://github.com/riandrake/MindustryScripts/blob/main/images/pycharm_setup.png?raw=true)
 ---
 
 ### Using In-Game
