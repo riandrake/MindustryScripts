@@ -21,7 +21,8 @@ Very basically, either:
 - Commandline: `python make.py $FileName$`
 - IDE Configuration; Script: `make.py`, Arguments: `$FileName`
 
-Here's a screenshot of my PyCharm configuration:  
+Here's a screenshot of my PyCharm configuration:
+
 ![alt text](https://github.com/riandrake/MindustryScripts/blob/main/images/pycharm_setup.png?raw=true)
 ---
 
