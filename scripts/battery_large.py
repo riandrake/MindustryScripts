@@ -47,7 +47,6 @@ CAPACITY = battery1.sensor(M.at.powerNetCapacity)
 PERCENT = POWER / CAPACITY
 
 cell1[0] = M.floor(PERCENT * 100)
-cell1[1] = "%"
 
 NET_IN = battery1.sensor(M.at.powerNetIn)
 NET_OUT = battery1.sensor(M.at.powerNetOut)

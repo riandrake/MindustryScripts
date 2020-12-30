@@ -11,8 +11,7 @@ def main():
     parser.add_argument("file")
     args = parser.parse_args()
 
-    os.system(f'python -m minpiler --clip {args.file}')
-    os.system(f'python -m minpiler {args.file}')
+    os.system(f'python -m minpiler --clip scripts/{args.file}')
 
 
 main()
