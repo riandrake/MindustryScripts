@@ -1,0 +1,10 @@
+draw clear 0 0 0 0 0 0
+draw color 255 255 255 255 0 0
+draw triangle 13 17 63 67 67 63
+draw triangle 17 13 13 17 67 63
+draw rect 8 48 24 24 0 0
+draw rect 48 8 24 24 0 0
+draw color 0 0 0 255 0 0
+draw rect 14 54 12 12 0 0
+draw rect 54 14 12 12 0 0
+drawflush display1
